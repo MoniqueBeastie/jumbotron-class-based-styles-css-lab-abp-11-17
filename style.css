@@ -40,10 +40,6 @@ nav a:hover {
   color: #0056b3;
 }
 
-h1#main {
-  font-size: 60px;
-}
-
 h3#header {
   float: left;
   font-size: 30px;
@@ -59,4 +55,8 @@ div.jumbotron {
   background-color: #e9ecef;
   padding: 10px;
   text-align: center;
+}
+
+h1.jumbotron {
+  font-size: 60px;
 }
